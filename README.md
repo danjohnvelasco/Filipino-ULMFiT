@@ -42,4 +42,4 @@ You should see two files: finetuned_weights_20.pth (pre-trained weights) and voc
 ```
 
 ## Acknowledgements
-Big thanks to [Blaise Cruz](https://github.com/jcblaisecruz02) for answering my questions and nudging me into the right direction. 
+Big thanks to [Blaise Cruz](https://github.com/jcblaisecruz02) for answering my questions and for nudging me in the right direction. 
