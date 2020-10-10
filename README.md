@@ -1,6 +1,6 @@
 # Filipino-ULMFiT
 This is an accompanying repository to my paper:
-*  [Pagsusuri ng RNN-based transfer learning technique sa low-resource language]()
+*  [Pagsusuri ng RNN-based transfer learning technique sa low-resource language]() (link to be updated)
 
 This repository contains: 
 *  instructions to download the pre-trained language model.
@@ -9,7 +9,7 @@ This repository contains:
 
 
 ## Contributions
-*  release a pre-trained AWD LSTM language model in Filipino using fastai v2. [[WikiText-TL-39](https://github.com/jcblaisecruz02/Filipino-Text-Benchmarks#datasets)]
+*  Release a pre-trained AWD LSTM language model in Filipino using fastai v2. [[WikiText-TL-39](https://github.com/jcblaisecruz02/Filipino-Text-Benchmarks#datasets)]
 *  Benchmark AWD LSTM to the Hate Speech Dataset. [[reference](https://arxiv.org/abs/1907.00409)]
 
 ## Requirements
@@ -38,7 +38,9 @@ cd models
 unzip pretrained.zip
 
 # Finally
-You should see two files: finetuned_weights_20.pth (pre-trained weights) and vocab.pkl (vocab). This will be used later in language model fine-tuning. See accompanying jupyter notebook to see usage.
+You should see two files: finetuned_weights_20.pth (pre-trained weights) and vocab.pkl (vocab). 
+This will be used later in language model fine-tuning. 
+See accompanying jupyter notebook to see usage.
 ```
 
 ## Acknowledgements
