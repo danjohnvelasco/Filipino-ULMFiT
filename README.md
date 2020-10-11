@@ -27,12 +27,12 @@ This repository contains:
 # Install gdown
 pip install gdown
 
-# Download data
-gdown --id 19jdv8-XEbDNiqlm_lPb1csbVZYkn3gfA
-
 # Make directory
 mkdir models
 cd models
+
+# Download data
+gdown --id 19jdv8-XEbDNiqlm_lPb1csbVZYkn3gfA
 
 # Unzip
 unzip pretrained.zip
