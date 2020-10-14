@@ -1,6 +1,6 @@
 # Filipino-ULMFiT
 This is an accompanying repository to my paper:
-*  [Pagsusuri ng RNN-based transfer learning technique sa low-resource language]() (link to be updated)
+*  [Pagsusuri ng RNN-based transfer learning technique sa low-resource language](https://arxiv.org/abs/2010.06447)
 
 This repository contains: 
 *  instructions to download the pre-trained language model.
@@ -13,7 +13,7 @@ This repository contains:
 *  Benchmark AWD LSTM to the Hate Speech Dataset. [[reference](https://arxiv.org/abs/1907.00409)]
 
 ## Requirements
-*  fastai v2
+*  [fastai v2](https://pypi.org/project/fastai/2.0.0/) and up
 *  NVIDIA GPU (all experiments were done on Colab w/ Tesla T4)
 
 ## Language Model
