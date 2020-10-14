@@ -1,8 +1,8 @@
 # Filipino-ULMFiT
 This is an accompanying repository to my paper:
-*  [Pagsusuri ng RNN-based transfer learning technique sa low-resource language](https://arxiv.org/abs/2010.06447)
+###  [Pagsusuri ng RNN-based transfer learning technique sa low-resource language](https://arxiv.org/abs/2010.06447)
 
-This repository contains: 
+## Contents
 *  instructions to download the pre-trained language model.
 *  jupyter notebook to show you how to use the pre-trained model on a text classification task using fastai v2. [[notebook](https://github.com/danjohnvelasco/Filipino-ULMFiT/blob/master/Filipino_ULMFiT.ipynb)]
 
