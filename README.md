@@ -29,16 +29,18 @@ pip install gdown
 
 # Make directory
 mkdir models
-cd models
 
 # Download data
 gdown --id 19jdv8-XEbDNiqlm_lPb1csbVZYkn3gfA
 
 # Unzip
-unzip pretrained.zip
+unzip pretrained.zip -d models
 
 # Finally
-You should see two files: finetuned_weights_20.pth (pre-trained weights) and vocab.pkl (vocab). 
+You should see two files inside 'models' directory: 
+1. finetuned_weights_20.pth (pre-trained weights)
+2. vocab.pkl (vocab) 
+
 This will be used later in language model fine-tuning. 
 See accompanying jupyter notebook to see usage.
 ```
