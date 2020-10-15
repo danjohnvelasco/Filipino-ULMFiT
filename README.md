@@ -9,7 +9,7 @@ This is an accompanying repository to my paper:
 
 
 ## Contributions
-*  Release a pre-trained AWD LSTM language model in Filipino using fastai v2. [[WikiText-TL-39](https://github.com/jcblaisecruz02/Filipino-Text-Benchmarks#datasets)]
+*  Release a pre-trained AWD LSTM language model in Filipino using fastai v2.
 *  Benchmark AWD LSTM to the Hate Speech Dataset. [[reference](https://arxiv.org/abs/1907.00409)]
 
 ## Requirements
